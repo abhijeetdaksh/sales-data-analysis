@@ -1,14 +1,28 @@
-# Sales Data Analysis Project
+# 📊 Sales Data Analysis Project
 
-## Objective
-Analyze sales data to identify trends, top-performing products, and regional performance.
+## 📌 Objective
+To analyze sales data and extract meaningful business insights such as top-performing products, regional performance, and monthly trends.
 
-## Tools Used
-- Excel / Google Sheets
+## 🛠 Tools & Technologies
+- Excel / Google Sheets (Dashboard)
 - SQL (MySQL)
-- Python (pandas, matplotlib)
+- Python (Pandas, Matplotlib)
 
-## Key Insights
-- Identified top-performing regions
-- Analyzed monthly sales trends
-- Found top 5 revenue-generating products
+## 🔄 Process
+- Cleaned raw dataset (handled missing values & inconsistent date formats)
+- Created new columns (Month extraction)
+- Performed SQL analysis using GROUP BY, SUM, ORDER BY
+- Built interactive dashboard in Excel
+- Used Python for data analysis and visualization
+
+## 📈 Key Insights
+- Identified top-performing regions contributing maximum revenue
+- Observed monthly sales trends and peak sales periods
+- Extracted top products driving major revenue
+
+## 📷 Dashboard Preview
+![Uploading Dashboard screenshot.png…]()
+
+
+## 🚀 Outcome
+Developed an end-to-end data analysis project demonstrating skills in Excel, SQL, and Python.
